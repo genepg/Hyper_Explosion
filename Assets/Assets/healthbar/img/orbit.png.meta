@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: 432b2060c8dbb4ce88287d160448ecc3
+timeCreated: 1475677920
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: orbit_0
+    21300002: orbit_1
+    21300004: orbit_2
+    21300006: orbit_3
+    21300008: orbit_4
+    21300010: orbit_5
+    21300012: orbit_6
+    21300014: orbit_7
+    21300016: orbit_8
+    21300018: orbit_9
+    21300020: orbit_10
+    21300022: orbit_11
+    21300024: orbit_12
+    21300026: orbit_13
+    21300028: orbit_14
+    21300030: orbit_15
+    21300032: orbit_16
+    21300034: orbit_17
+    21300036: orbit_18
+    21300038: orbit_19
+    21300040: orbit_20
+    21300042: orbit_21
+    21300044: orbit_22
+    21300046: orbit_23
+    21300048: orbit_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orbit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

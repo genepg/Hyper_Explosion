@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 2981089d3024749bb9d1bb1846207474
+timeCreated: 1475678898
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: orbit splice_0
+    21300002: orbit splice_1
+    21300004: orbit splice_2
+    21300006: orbit splice_3
+    21300008: orbit splice_4
+    21300010: orbit splice_5
+    21300012: orbit splice_6
+    21300014: orbit splice_7
+    21300016: orbit splice_8
+    21300018: orbit splice_9
+    21300020: orbit splice_10
+    21300022: orbit splice_11
+    21300024: orbit splice_12
+    21300026: orbit splice_13
+    21300028: orbit splice_14
+    21300030: orbit splice_15
+    21300032: orbit splice_16
+    21300034: orbit splice_17
+    21300036: orbit splice_18
+    21300038: orbit splice_19
+    21300040: orbit splice_20
+    21300042: orbit splice_21
+    21300044: orbit splice_22
+    21300046: orbit splice_23
+    21300048: orbit splice_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orbit splice_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orbit splice_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 312
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orbit splice_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orbit splice_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 112
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

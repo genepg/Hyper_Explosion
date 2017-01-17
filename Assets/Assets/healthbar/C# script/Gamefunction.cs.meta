@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f576679b0d13b4c61a53fa31986ea670
+timeCreated: 1478098274
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Emeny: {instanceID: 0}
+  - ScoreText: {instanceID: 0}
+  - blood: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
