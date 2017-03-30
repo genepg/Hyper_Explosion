@@ -1,4 +1,4 @@
-# hyper_explosion
+# Hyper Explosion
 Unity Rhythm(music) Game
 
 video link: https://youtu.be/x0JiwU8Puv8
